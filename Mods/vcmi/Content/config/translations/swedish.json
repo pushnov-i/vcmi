@@ -823,6 +823,7 @@
 	"vcmi.keyBindings.resetConfirm": "Vill du återställa alla tangentkopplingar till de ursprungliga inställningarna?",
 	"vcmi.kingdomOverview.secSkillOverflow.help": "{Fler färdigheter}\n\nDenna hjälte har fler färdigheter.\nI hjälteöversikten kan alla ses.",
 	"vcmi.kingdomOverview.secSkillOverflow.hover": "Fler färdigheter",
+	"vcmi.list.or": " eller ",
 	"vcmi.lobby.author": "Författare",
 	"vcmi.lobby.backToLobby": "Tillbaka till onlinelobbyn",
 	"vcmi.lobby.battleOnlyMode": "Stridsläge",
